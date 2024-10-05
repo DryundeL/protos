@@ -1,4 +1,4 @@
-module protos
+module github.com/DryundeL/protos
 
 go 1.21
 
